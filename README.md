@@ -9,9 +9,6 @@
 
   
 
-#  [README] <a name="about-project"></a>
-
-
 
 # README
 
